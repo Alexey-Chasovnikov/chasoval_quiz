@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Викторина</title>
+</head>
+{% block content %}
+
+  <h2>{{ qeustion_text }}</h2>
+  {% for a in answers %}
+
+    <h3>{{ a.answer_text }}</h3>
+
+  {% endfor %}
+
+{% endblock %}
+</html>

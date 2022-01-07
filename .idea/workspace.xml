@@ -5,7 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a6bd2ad9-f604-46c9-b018-bed1fcc94dbe" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/quiz/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/quiz/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/quiz/dto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/quiz/services.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/quiz/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/quiz/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/quiz/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/quiz/views.py " afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/quiz/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/simbir_test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/simbir_test/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/simbir_test/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/simbir_test/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/simbir_test/migrations/0002_auto_20211227_1733.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/simbir_test/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/simbir_test/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/simbir_test/templates/simbir_test/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/simbir_test/templates/simbir_test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/simbir_test/templates/simbir_test/quest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/simbir_test/templates/simbir_test/question.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/simbir_test/templates/simbir_test/time.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/simbir_test/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/simbir_test/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django-quiz/simbir_test/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/chasoval_quiz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/chasoval_quiz.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +78,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -88,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1640794917083</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <created>1641552427270</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641552427270</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +141,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/django-quiz" />
+    </ignored-roots>
     <MESSAGE value="1" />
     <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
